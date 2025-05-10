@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **anshuli-patel/anshuli-patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,28 +15,39 @@ Here are some ideas to get you started:
 
 ### 👋 Hi there! I'm [Your Name]
 
-I’m a Microsoft Power BI Certified data enthusiast with a background in Commerce and Interior Design — a unique blend that fuels my creativity and business understanding in data storytelling.
-
-🎯 **Currently Learning:**  
-- SQL (MySQL, SQL Server)  
-- Advanced DAX and Data Modeling in Power BI  
-- Data Analytics Best Practices
-
-📊 **Projects I’m Proud Of:**  
-- 
-- 
-- 
-
-💡 **Why Data Analytics?**  
-From business numbers to design choices, I've always been drawn to patterns and insights. Now I turn those into actionable dashboards and reports using Power BI, SQL, and Excel.
-
-🔍 **Looking For:**  
-- Entry-level opportunities in Data Analytics or Business Intelligence  
-- Internships, freelance gigs, or volunteer projects to grow and contribute
-
-📫 **Connect With Me:**  
-- LinkedIn: [Your LinkedIn Profile URL]  
-- Portfolio/Power BI Reports: [GitHub Pages / Public Links]  
+I'm a Microsoft Power BI Certified data enthusiast with a background in Commerce and Interior Design — a unique combination that empowers me to blend business logic with creative data storytelling.
 
 ---
-🛠️ Let’s turn data into decisions!
+
+### 🚀 What I'm Doing
+- 🔍 Exploring the world of data analytics through **Power BI**, **SQL**, and **Excel**
+- 📚 Learning advanced concepts in **DAX**, **data modeling**, and **visual best practices**
+- 📈 Building interactive dashboards to solve real-world business problems
+- ✍️ Sharing my journey on LinkedIn through weekly posts on Power BI & SQL
+
+---
+
+### 💼 Projects I've Worked On
+- **Retail Sales Dashboard** – 
+- **Customer Feedback Analysis** – 
+- **Small Business Financial Report** – 
+
+🔗 You can explore these projects [here](#) or on my [GitHub Repositories](#)  
+
+---
+
+### 🛠️ Tools & Skills
+- **Power BI** | DAX | Data Modeling | KPI Visualization  
+- **SQL** (MySQL, SQL Server) | Joins | Aggregations | Subqueries  
+- **Excel** | PivotTables | Charts | Formulas  
+- **Soft Skills:** Problem-solving, Communication, Design Thinking  
+
+---
+
+### 📬 Let's Connect
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+- 📊 [Power BI Portfolio](#) 
+
+---
+
+⭐ I'm open to entry-level roles, internships, and freelance opportunities in data analytics. Let’s turn data into decisions!
