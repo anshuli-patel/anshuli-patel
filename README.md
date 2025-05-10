@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 Hi there! I'm [Your Name]
+### 👋 Hi there! I'm Anshuli Patel
 
 I'm a Microsoft Power BI Certified data enthusiast with a background in Commerce and Interior Design — a unique combination that empowers me to blend business logic with creative data storytelling.
 
