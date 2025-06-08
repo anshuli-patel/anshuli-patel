@@ -45,7 +45,7 @@ I'm a Microsoft Power BI Certified data enthusiast with a background in Commerce
 ---
 
 ### 📬 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+- 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/anshulipatel/))  
 - 📊 [Power BI Portfolio](#) 
 
 ---
