@@ -39,7 +39,7 @@ I'm a Microsoft Power BI Certified data enthusiast with a background in Commerce
 - Clean, business-friendly UI with slicers, tooltips, and variance analysis
   
 
-- **Atliq Grand Customer Data Analysis** –  
+**Atliq Grand Customer Data Analysis**
 
 
 🔗 You can explore these projects [here](#) or on my [GitHub Repositories](#)  
