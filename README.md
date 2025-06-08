@@ -28,9 +28,19 @@ I'm a Microsoft Power BI Certified data enthusiast with a background in Commerce
 ---
 
 ### 💼 Projects I've Worked On
-- **Retail Sales Dashboard** – 
-- **Customer Feedback Analysis** – 
-- **Small Business Financial Report** – 
+
+- **Business Insights 360** –  
+  End-to-end Power BI dashboard project analyzing Atliq Grand's customer data across key business functions: **Finance, Sales, Marketing, Supply Chain, and Executive**. Features DAX-based KPIs, interactive visualizations, and real-world insights.
+## 🔍 Key Features
+- Department-wise KPI dashboards with interactive filtering
+- DAX-driven calculations for deeper business insights
+- Real-world datasets and business scenarios
+- Visualization of metrics like Net Sales, Gross Margin %, Forecast Accuracy %, and more
+- Clean, business-friendly UI with slicers, tooltips, and variance analysis
+  
+
+- **Atliq Grand Customer Data Analysis** –  
+
 
 🔗 You can explore these projects [here](#) or on my [GitHub Repositories](#)  
 
