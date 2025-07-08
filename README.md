@@ -63,8 +63,6 @@ An interactive Power BI dashboard project designed to analyze and visualize oper
 
 ### 📬 Let's Connect
 - 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/anshulipatel/))  
-- 📊 [Power BI Portfolio](#) 
-
 ---
 
 ⭐ I'm open to entry-level roles, internships, and freelance opportunities in data analytics. Let’s turn data into decisions!
