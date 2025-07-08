@@ -40,10 +40,16 @@ I'm a Microsoft Power BI Certified data enthusiast with a background in Commerce
 
 ---
 
-## **Atliq Grand Customer Data Analysis**
+## 🏨 AtliQ Grand – Hotel Operations Performance Dashboard
 
+An interactive Power BI dashboard project designed to analyze and visualize operational metrics across multiple hotel properties and cities for the fictional brand **AtliQ Grand**.
 
-🔗 You can explore these projects [here](#) or on my [GitHub Repositories](#)  
+### 🔍 Project Highlights:
+- Tracked KPIs such as **Revenue**, **Occupancy %**, **Average Rating**, and **Cancellation %** across hotel locations  
+- Designed a **city-wise performance view** with dynamic trend indicators and average rating comparisons  
+- Built a **platform-wise booking analysis** (e.g., Tripster, MakeMyTrip) with **weekday vs weekend segmentation** using nested donut charts  
+- Created a **weekly revenue trend view** highlighting booking volume and successful booking rates over time  
+- Used **Power Query** for data transformation and **DAX** for custom measure calculations and filters  
 
 ---
 
